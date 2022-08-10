@@ -1,8 +1,14 @@
 # Analog Write
 
 [![awrite-bb.png](https://i.postimg.cc/pTyj3NV2/awrite-bb.png)](https://postimg.cc/9R5zqnqS)
-
 Usar salidas PWM para simular salidas analogicas
+
+## Hardware y software necesarios
+- Placa de desarrollo Arduino 
+- LED
+- Resistencia 220 - 1 $\displaystyle K\Omega$
+- [Arduino IDE](https://www.arduino.cc/en/software) o [Arduino CLI](https://arduino.github.io/arduino-cli/0.23/installation/)
+
 
 El codigo imprime valores en una salida PWM de 0 a 255 y 255 a 0 usando: 
 
