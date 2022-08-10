@@ -6,7 +6,7 @@ Usar salidas PWM para simular salidas analogicas
 ## Hardware y software necesarios
 - Placa de desarrollo Arduino 
 - LED
-- Resistencia 220 - 1 $\displaystyle K\Omega$
+- Resistencia 220 $\displaystyle \Omega$ - 1 $\displaystyle K\Omega$
 - [Arduino IDE](https://www.arduino.cc/en/software) o [Arduino CLI](https://arduino.github.io/arduino-cli/0.23/installation/)
 
 
